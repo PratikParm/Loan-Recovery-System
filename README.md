@@ -3,11 +3,13 @@
 This project aims to build a machine learning model to predict loan recovery status based on borrower information and loan details. The project includes data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
 ## Project Structure
+```
 Loan-Recovery-System/
 ├── data/
 │   └── loan-recovery.csv
 ├── main.ipynb
 └── README.md
+```
 
 - `data/loan-recovery.csv`: The dataset containing borrower information and loan details.
 - `main.ipynb`: The Jupyter notebook containing the code for data preprocessing, analysis, model training, and evaluation.
